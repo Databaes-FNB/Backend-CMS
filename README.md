@@ -155,3 +155,9 @@ The **CapaCiti Management System** provides educational institutions with an all
 - **TechRadar (2024).** Best Attendance Tracking Software: Features & Pricing.
 - **Oracle Blog (2023).** Why Enterprises Choose Spring Boot for Backend Development.
 
+- 
+
+
+https://github.com/user-attachments/assets/b69ddad2-44e1-417e-94bc-5380bb5719b8
+
+
