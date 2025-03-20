@@ -157,6 +157,10 @@ The **CapaCiti Management System** provides educational institutions with an all
 
 - 
 
+https://github.com/user-attachments/assets/bc40e9e5-6991-4d9c-8c5f-f5c7b353004a
+
+
+
 
 https://github.com/user-attachments/assets/b69ddad2-44e1-417e-94bc-5380bb5719b8
 
